@@ -1,0 +1,14 @@
+
+
+.container {
+    background-color: #ff000073;
+    border-radius: 10px;
+    .column .header_first {
+        margin: 50px;
+        padding: 30px;
+        background-color: rgba(36, 156, 255, 0.801);
+        border-radius: 10px;
+        border: 1px solid;
+        box-shadow: 10px 10px rgba(0, 0, 0, 0.425);
+    }
+}
